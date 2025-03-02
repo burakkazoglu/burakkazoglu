@@ -40,8 +40,8 @@
   
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba Cloud ECS Snapshot Nedir? Nasıl Kullanılır?](https://teknoforest.com/alibaba-cloud-ecs-snapshot-nedir-nasil-kullanilir/)
-- [Alibaba Cloud Ücretsiz Sanal Makine ECS Oluşturmak](https://teknoforest.com/alibaba-cloud-ucretsiz-sanal-makine-ecs-olusturmak/)
+- [OpenAPI, JWT ve GitOps ile Kong API Gateway Yönetimi](https://burakkazoglu.medium.com/openapi-helm-ve-gitops-kong-api-gatewayi-otomatiklestirmenin-yollari-f6e2e8671494)
+- [DigitalOcean’da Centos Kurulumu](https://burakkazoglu.medium.com/digitaloceanda-centos-kurulumu-af476fbe6b86)
 - [Alibaba Cloud ECS için Güvenlik Rolleri Ekleme](https://teknoforest.com/alibaba-cloud-ecs-icin-guvenlik-rolleri-ekleme/)
 - [Alibaba Cloud Ücretsiz Sanal Makine ECS Oluşturmak](https://teknoforest.com/alibaba-cloud-ucretsiz-sanal-makine-ecs-olusturmak/)
 <!-- BLOG-POST-LIST:END -->
@@ -57,8 +57,8 @@
 ##  📫 &nbsp;Contact
 
 <p align="center">
-<a href="https://teknoforest.com"><img src="https://img.shields.io/badge/-teknoforest.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://tr.linkedin.com/in/burakkazoglu"><img src="https://img.shields.io/badge/-Burak%20Kazo%C4%9Flu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://burakkazoglu.com"><img src="https://img.shields.io/badge/-burakkazoglu.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://tr.linkedin.com/in/burakkazoglu"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="https://medium.com/@burakkazoglu"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="mailto:kazogluburak@gmail.com"><img src="https://img.shields.io/badge/-kazogluburak@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
